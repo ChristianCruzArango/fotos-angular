@@ -25,6 +25,8 @@
             ],
             "styles": [
               "src/styles.css"
+              
+              
             ],
             "scripts": []
           },
@@ -120,6 +122,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "carga-imagenes"
+    }
+  },
+  "defaultProject": "carga-imagenes",
+  "cli": {
+    "analytics": false
+  }
 }
